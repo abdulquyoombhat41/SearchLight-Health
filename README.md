@@ -1,6 +1,6 @@
 # SearchLight-Health
 # Java 11
-#Run mvn clean install
+# Run mvn clean install
 Start the application using Starter.java class.
 The application is using inmemory DB.
 The application will initialize DB with two stores information(for reference check DataInitializer).
